@@ -30,11 +30,3 @@ body {
   padding: 0;
   border: 0;
 }
-
-.bottom-bar {
-  position: fixed;
-  bottom: 0;
-  top: 60%;
-  width: 100%;
-  background-color: hsl(195deg, 20%, 86%);
-}
